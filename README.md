@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Epitech's Mobile App**
 
-- 🌱 I’m currently learning **C, C++, Swift, Ruby**
+- 🌱 I’m currently learning **C, JavaScript, React, TypeScript**
 
 - 📄 Know about my experiences **1st years in Epitech**
 
