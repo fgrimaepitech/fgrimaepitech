@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Florian Grima</h1>
 <h3 align="center">Just a developper.</h3>
 
-- 🔭 I’m currently working on **Epitech's Mobile App**
+- 🔭 I’m currently working in **Gamercraft**
 
 - 🌱 I’m currently learning **C, JavaScript, React, TypeScript**
 
