@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Florian Grima</h1>
 <h3 align="center">Just a developper.</h3>
 
-- 🔭 I’m currently working in **Gamercraft**
+- 🔭 I’m currently working at **Gamercraft**
 
-- 🌱 I’m currently learning **Elixir and Phoenix for backend**
+- 🌱 I’m currently learning **AdonisJS for backend**
 
 - 📄 Know about my experiences **3rd year in Epitech**
 
