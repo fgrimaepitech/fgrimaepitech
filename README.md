@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Gamercraft**
 
-- 🌱 I’m currently learning **AdonisJS for backend**
+- 🌱 I’m currently learning **AdonisJS and AWS for backend**
 
 - 📄 Know about my experiences **3rd year in Epitech**
 
